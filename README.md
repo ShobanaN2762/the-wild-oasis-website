@@ -1,4 +1,5 @@
 # The Wild Oasis Website
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 [![Image](https://github.com/user-attachments/assets/bed30a67-9759-4bc6-92ad-721b3a33b611)](https://the-wild-oasis-website-wine-delta.vercel.app/)
 
