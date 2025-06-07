@@ -1,10 +1,12 @@
 # The Wild Oasis Website
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-[![Image](https://github.com/user-attachments/assets/bed30a67-9759-4bc6-92ad-721b3a33b611)](https://the-wild-oasis-website-wine-delta.vercel.app/)
+**The Wild Oasis Website** is a responsive and visually appealing hotel landing page built with Next.js. It showcases the hotel’s offerings, amenities, and allows visitors to explore the experience before booking.
+
+[![Screenshot](https://github.com/user-attachments/assets/bed30a67-9759-4bc6-92ad-721b3a33b611)](https://the-wild-oasis-website-wine-delta.vercel.app/)
 
 Live demo: [https://the-wild-oasis-website-wine-delta.vercel.app/](https://the-wild-oasis-website-wine-delta.vercel.app/)
 
+---
 
 ## Getting Started
 
@@ -17,8 +19,7 @@ yarn dev
 # or
 pnpm dev
 # or
-bun dev
-```
+bun dev```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
