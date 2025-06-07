@@ -2,13 +2,16 @@
 
 **The Wild Oasis Website** is a responsive and visually appealing hotel landing page built with Next.js. It showcases the hotel’s offerings, amenities, and allows visitors to explore the experience before booking.
 
+## 🔥 Preview
+
 [![Screenshot](https://github.com/user-attachments/assets/bed30a67-9759-4bc6-92ad-721b3a33b611)](https://the-wild-oasis-website-wine-delta.vercel.app/)
 
-Live demo: [https://the-wild-oasis-website-wine-delta.vercel.app/](https://the-wild-oasis-website-wine-delta.vercel.app/)
+🎯 **Live Demo**: 
+[https://the-wild-oasis-website-wine-delta.vercel.app/](https://the-wild-oasis-website-wine-delta.vercel.app/)
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 First, run the development server:
 
